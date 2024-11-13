@@ -1,5 +1,5 @@
 # Projeto sensores e servos motores
-
+(projeto feito em colaboração com colegas)
 Projeto feito para uma casa automatica, feita durante o curso tecnico em informatica para internet, o codigo apresenta 
 ## Cortina
 void loop()
